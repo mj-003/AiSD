@@ -1,1 +1,1 @@
-# Semester I - Algorithms and data structures
+# Semester II - Algorithms and data structures
